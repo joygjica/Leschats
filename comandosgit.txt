@@ -19,4 +19,4 @@ git commit -m "Guardando archivos con comandos de configuracion de git"
 git status
  git log
 
- 
+  
