@@ -1,0 +1,14 @@
+git config -l con este comando puede ver si está configurado el Git. 
+Si no está configurado debo usar un comando llamado 
+
+git config --global user.name "Tu
+Nombre"
+
+
+git config --global user.email
+tucorreo@mail.com
+
+_____________________________
+
+En mi computadora creo una Carpeta (XXXX)
+Luego de crear parte el siguiente paso es iniciar Gitbash con el comando git init
