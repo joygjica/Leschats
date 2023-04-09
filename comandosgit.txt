@@ -8,7 +8,15 @@ Nombre"
 git config --global user.email
 tucorreo@mail.com
 
-_____________________________
+_______________________
 
 En mi computadora creo una Carpeta (XXXX)
 Luego de crear parte el siguiente paso es iniciar Gitbash con el comando git init
+
+git add (Espacio) nombre de archivo
+git status
+git commit -m "Guardando archivos con comandos de configuracion de git"
+git status
+ git log
+
+ 
