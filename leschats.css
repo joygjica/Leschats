@@ -3,6 +3,35 @@ h1 {
     background-color: green;
 }
 
+#aqui-va-texto {
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(222, 150, 17);
+    text-align: center;
+}
+
 p {
-    background-color: blue;
+    background-color: yellow;
+}
+
+.caja {
+    display: flex;
+    justify-content: center;
+
+
+
+
+
+    border: 1px solid red;
+}
+
+button {
+    border-radius: 25px;
+    background-color: rgb(5, 89, 128);
+    padding: 4px;
+}
+
+
+img {
+    width: 200px;
 }
